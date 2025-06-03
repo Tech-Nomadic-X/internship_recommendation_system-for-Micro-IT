@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Mac & system files
+.DS_Store
+Thumbs.db
+
+# Streamlit specific
+.streamlit/secrets.toml
+.unsubscribed.csv
+
+# Logs
+*.log
+
+# VS Code / PyCharm settings
+.vscode/
+.idea/
+
+# Data files
+*.csv
+*.xlsx
+domain_profiles.csv
+unsubscribed.csv
