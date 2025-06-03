@@ -47,6 +47,8 @@ Inside `.streamlit/secrets.toml`:
 api_key = "your_sendgrid_api_key"
 from_email = "your_verified_sender@example.com"
 from_name = "Internship Recommender"
+
+⚠️ Note: Create a .streamlit/secrets.toml file with your own API key based on secrets_template.toml. Do not commit it to GitHub.
 ```
 
 ---
@@ -71,4 +73,5 @@ If you requested an email but don’t see it, check your **Spam** folder. Please
 
 This project is open-source under the MIT License.
 Please give it a star if you like it.
-          ____Bhooma Anand
+
+       Author:- _ _ _ Bhooma Anand
